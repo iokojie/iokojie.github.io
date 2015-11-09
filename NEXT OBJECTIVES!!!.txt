@@ -1,0 +1,6 @@
+1.Add in Jquery content in element link switch element for leftnav
+2.Border
+-Copyright
+-social media link (link to all of your social media outlets
+-contact info(maybe?
+3. Fix overall mobility of website.

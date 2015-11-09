@@ -1,0 +1,300 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+			],
+			[
+				"li",
+				"d-li	display: list-item;"
+			],
+			[
+				"list-style",
+				"list-style-type"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"i",
+				"list-item"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"positi",
+				"list-style-position"
+			],
+			[
+				"width",
+				"max-width"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"l",
+				"link	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!doctype html>\n<html>\n<head>\n  <title>HTML Practice</title>\n</head>\n<body>\n  <h1>The Start Of a Revolution.</h1>\n\n</body>\n</html>",
+			"file": "/C/Users/Iyere/Desktop/html/index.html",
+			"file_size": 137,
+			"file_write_time": 130795836774128674,
+			"settings":
+			{
+				"buffer_size": 130,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "Package Control: int",
+		"selected_items":
+		[
+			[
+				"Package Control: int",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 114.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation'",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation'"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Iyere/Desktop/html/index",
+		"/C/Users/Iyere/Google Drive/Documents/HTML Documents/First Webpage/main.css",
+		"/C/Users/Iyere/Google Drive/Documents/HTML Documents/First Webpage/index.html",
+		"/C/Users/Iyere/Google Drive/Documents/HTML Documents/First Webpage/main",
+		"/C/Users/Iyere/Google Drive/Sublime text/Sublime Text Build 3083 x64/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Iyere/Google Drive/Documents/Documents/HTML Documents/Collab (1).html",
+		"/C/Users/Iyere/Google Drive/Documents/Documents/HTML Documents/main.css",
+		"/C/Users/Iyere/Google Drive/Documents/Documents/HTML Documents/main (1).css",
+		"/C/Users/Iyere/Google Drive/Documents/Documents/HTML Documents/index.html",
+		"/C/Users/Iyere/Google Drive/Documents/Documents/HTML Documents/First.html",
+		"/C/Users/Iyere/Google Drive/Sublime text/Sublime Text Build 3083 x64/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Iyere/Google Drive/Documents/Documents/HTML Documents/Preferences.sublime-settings",
+		"/C/Users/Iyere/Google Drive/Sublime text/Sublime Text Build 3083 x64/Data/Packages/User/Emmet.sublime-settings",
+		"/C/Users/Iyere/Google Drive/Sublime text/Sublime Text Build 3083 x64/Data/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/Iyere/Google Drive/Documents/Documents/HTML Documents/index",
+		"/C/Users/Iyere/Google Drive/Sublime text/Sublime Text Build 3083 x64/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Iyere/Google Drive/Sublime text/Sublime Text Build 3083 x64/Data/Packages/User/LiveReload.sublime-settings",
+		"/C/Users/Iyere/Google Drive/Sublime text/Sublime Text Build 3083 x64/Data/Installed Packages/SideBarEnhancements.sublime-package"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Iyere/Desktop/html/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 130,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								130,
+								130
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.568965517241,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Iyere Professional Blog.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

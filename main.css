@@ -1,0 +1,166 @@
+/* Fonts For Iyere's personal Website */
+
+/* Media Queries */
+/* reset */
+h2 {
+  margin: 0;
+  padding: 0;
+  max-width: 600px;
+}
+  /* BODY */
+body {
+ background-color: rgba(0,0,0,.5); 
+ background-image: url('http://www.fondosblackberry.com/user-content/uploads/wall/o/15/cool_background_abstract_.jpg');
+ background-size: cover;
+}
+
+#wrapper {
+  min-height: 100%;
+  width: 100%;
+  
+} 
+    /* LOGO */
+  #logo {
+    margin-left: 37px;
+    float: left;
+    position: absolute;
+    top: 8px;
+    left: 5px;
+    z-index: 2;
+  }
+
+  /* HEADER */
+  header {
+    height: 100px;
+    margin-right: 2em;
+    margin-top: 45px;
+    margin-left: 80px;
+    box-shadow: 3.5px 3.5px 10px black;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+    background-color: rgba(0,0,0,.6); 
+    z-index: 1;
+    overflow: hidden;
+  }
+    #title {
+      display: inline;
+      float: left;
+      max-width: 100%;
+      margin-top: 30px;
+      margin-left: 170px;
+      margin-right: 0; 
+      padding-right: 0px;
+      margin-bottom: 50px;
+    }
+    #title h2 {
+      letter-spacing: 1.5px;
+      font-family: 'Tangerine', cursive;
+      font-weight: 700;
+      color: gold;
+      text-shadow: 0 0 15px #FFFF66;
+      font-size: 190%;
+      -webkit-text-stroke: .2px rgb(34,34,37);
+      text-align: center;
+  
+    }   
+
+    /* Top Navigation Bar */
+    #topnav {
+      float: right;
+      display: block;
+    }
+
+    #topnav ul {
+      margin-top: 30px;
+      padding-left: 0;
+      float: right;
+      list-style-type: none;
+
+    }
+    #topnav ul li {
+      
+      margin-right: 75px;
+      display: inline;
+      float: none;
+      font-family: 'Tangerine', cursive;
+      font-size: 190%;
+    }
+
+    #topnav ul li a {
+        padding: 30px 20px 38px 20px;
+        text-align: center;
+        text-decoration: none;
+    }
+
+    #topnav ul li a:hover {
+      background-color: rgba(0,0,0,.5);
+    } 
+
+    #topnav ul li a:visited {
+      color: white;
+    }
+
+    #topnav ul li a #topnavbutton:hover {
+      color:yellow;
+    }
+   
+
+
+
+/* LOGO LEFT */
+#leftnav {
+  margin-left: 40px;
+  margin-top: 50px;
+
+
+}
+
+#leftnav #sidebar {
+  list-style-type: none;
+  padding-top: 27px;
+  background-color: rgba(0,0,0,.6);
+  border-radius: 7px;
+}
+
+#leftnav #sidebar ul {
+
+  
+}
+
+#leftnav #sidebar li {
+ padding-bottom: 40px;
+
+  
+}
+#first {
+ 
+}
+
+#leftnav #sidebar li a {
+ text-decoration: none;
+ font-family: 'Tangerine', cursive;
+ font-size: 175%;
+
+}
+
+#leftnav #sidebar li a:visited {
+ color: white;
+}
+/* Large SCREEN */
+
+#leftnav #jumbocontainer {
+
+}
+
+/* footer */
+footer {
+  text-align: center;
+  background-color: rgba(0,0,0,.6); 
+
+}
+
+footer p{
+  font-family: 'ubuntu';
+  color: gold;
+  text-shadow: 0 0 6px #FFFF66;
+}
